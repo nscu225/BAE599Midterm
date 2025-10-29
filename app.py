@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 import ast
+import re
 from pathlib import Path
 import pathlib
 import streamlit.components.v1 as components
@@ -664,8 +665,31 @@ if page == 'ML Model Selection':
                     X_series = pd.Series([_unwrap_first(v) for v in X])
                     y_series = pd.Series([_unwrap_first(v) for v in y])
 
-                    X = pd.to_numeric(X_series, errors='coerce').values.ravel().astype(float)
-                    y = pd.to_numeric(y_series, errors='coerce').values.ravel().astype(float)
+                    # Aggressive numeric extraction: try to parse numbers from strings (e.g. "['1970']" or "1970\n")
+                    def _extract_number(val):
+                        if pd.isna(val):
+                            return np.nan
+                        if isinstance(val, (int, float, np.integer, np.floating)):
+                            return float(val)
+                        s = str(val).strip()
+                        if s == '':
+                            return np.nan
+                        # quick try: direct float conversion
+                        try:
+                            return float(s)
+                        except Exception:
+                            pass
+                        # regex search for the first number-like token
+                        m = re.search(r'[-+]?\d*\.?\d+(?:[eE][-+]?\d+)?', s)
+                        if m:
+                            try:
+                                return float(m.group(0))
+                            except Exception:
+                                return np.nan
+                        return np.nan
+
+                    X = np.asarray([_extract_number(v) for v in X_series]).ravel().astype(float)
+                    y = np.asarray([_extract_number(v) for v in y_series]).ravel().astype(float)
 
                     if debug_model_comp:
                         try:
