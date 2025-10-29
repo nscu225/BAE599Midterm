@@ -632,6 +632,9 @@ if page == 'ML Model Selection':
             if df_agg is None or df_agg.empty:
                 st.info('Not enough data to compute comparisons.')
             else:
+                # Debug toggle: when enabled, the app will print a small snapshot of the data used for fitting
+                debug_model_comp = st.checkbox('Show debug info for model comparison (YEAR/VALUE snapshot)', value=False)
+
                 try:
                     # Prepare X and y robustly (ensure 1-d numeric arrays)
                     df_agg = df_agg.dropna(subset=['YEAR', 'VALUE'])
@@ -663,6 +666,16 @@ if page == 'ML Model Selection':
 
                     X = pd.to_numeric(X_series, errors='coerce').values.ravel().astype(float)
                     y = pd.to_numeric(y_series, errors='coerce').values.ravel().astype(float)
+
+                    if debug_model_comp:
+                        try:
+                            st.subheader('Debug: aggregated dataframe (head) and dtypes')
+                            st.write(df_agg.head(10))
+                            st.write({k: str(v) for k, v in df_agg.dtypes.to_dict().items()})
+                            st.write('Sample YEAR column values (first 10):', list(df_agg['YEAR'].head(10).astype(str)))
+                            st.write('Sample VALUE column values (first 10):', list(df_agg['VALUE'].head(10).astype(str)))
+                        except Exception as e_dbg:
+                            st.write('Could not render debug snapshot:', e_dbg)
                     mask = np.isfinite(X) & np.isfinite(y)
                     X = X[mask]
                     y = y[mask]
@@ -688,6 +701,14 @@ if page == 'ML Model Selection':
                             f"Showing a small sample (head 10) to help debug: {sample_repr}.\n"
                             f"Column dtypes: {df_agg.dtypes.to_dict()}"
                         )
+                        # If debug toggle is on, also show prepared X/y arrays
+                        if debug_model_comp:
+                            try:
+                                st.write('Prepared X (first 20):', X[:20].tolist())
+                                st.write('Prepared y (first 20):', y[:20].tolist())
+                                st.write('Finite mask count:', int(np.sum(np.isfinite(X) & np.isfinite(y))))
+                            except Exception:
+                                pass
                         pred_lr = None
 
                     # Baseline: mean predictor
