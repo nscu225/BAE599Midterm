@@ -4,6 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
+import ast
 from pathlib import Path
 import pathlib
 import streamlit.components.v1 as components
@@ -640,11 +641,21 @@ if page == 'ML Model Selection':
                     # Convert to numpy 1-d arrays and filter finite values
                     # If any cells are list-like (e.g., ['1970']) flatten them to scalars
                     def _unwrap_first(v):
+                        # If it's already a list/tuple/ndarray, take first element
                         if isinstance(v, (list, tuple, np.ndarray)):
                             try:
                                 return v[0]
                             except Exception:
                                 return np.nan
+                        # If it's a string that looks like a list (e.g. "['1970']"), try to parse it
+                        if isinstance(v, str) and v.strip().startswith('[') and v.strip().endswith(']'):
+                            try:
+                                parsed = ast.literal_eval(v)
+                                if isinstance(parsed, (list, tuple, np.ndarray)) and len(parsed) > 0:
+                                    return parsed[0]
+                            except Exception:
+                                # fall through and return original string to be coerced (may become NaN)
+                                pass
                         return v
 
                     X_series = pd.Series([_unwrap_first(v) for v in X])
@@ -660,19 +671,24 @@ if page == 'ML Model Selection':
                         raise ValueError('Not enough numeric YEAR/VALUE pairs to fit a linear model (need >=2).')
 
                     # Linear fit using numpy.polyfit (degree 1)
+                    polyfit_failed = False
                     try:
                         coeffs = np.polyfit(X, y, deg=1)
                         pred_lr = np.poly1d(coeffs)(X)
                     except Exception as e_poly:
+                        polyfit_failed = True
                         # Provide a concise debug snapshot to help diagnose malformed YEAR/VALUE data
                         try:
                             sample = df_agg.head(10).copy()
                             sample_repr = sample.to_dict(orient='records')
                         except Exception:
                             sample_repr = str(df_agg.head(10))
-                        raise ValueError(
-                            f"numpy.polyfit failed: {e_poly}. Sample rows (head 10) and dtypes: {sample_repr}, dtypes={df_agg.dtypes.to_dict()}"
+                        st.warning(
+                            f"Could not fit a linear trend (numpy.polyfit failed): {e_poly}.\n"
+                            f"Showing a small sample (head 10) to help debug: {sample_repr}.\n"
+                            f"Column dtypes: {df_agg.dtypes.to_dict()}"
                         )
+                        pred_lr = None
 
                     # Baseline: mean predictor
                     y_mean = np.nanmean(y)
@@ -689,7 +705,10 @@ if page == 'ML Model Selection':
                         r2 = float(1 - ss_res / ss_tot) if ss_tot != 0 else None
                         return (rmse, mae, r2)
 
-                    lr_rmse, lr_mae, lr_r2 = metrics_from_preds(y, pred_lr)
+                    if pred_lr is not None:
+                        lr_rmse, lr_mae, lr_r2 = metrics_from_preds(y, pred_lr)
+                    else:
+                        lr_rmse = lr_mae = lr_r2 = None
                     mean_rmse, mean_mae, mean_r2 = metrics_from_preds(y, pred_mean)
 
                     rows = [
