@@ -19,7 +19,11 @@ STEP4 = BASE / 'Step 4'
 STEP5 = BASE / 'Step 5'
 STEP6 = BASE / 'Step 6'
 
-st.set_page_config(page_title='US Rice Yield Analysis', layout='wide')
+st.set_page_config(
+    page_title='US Rice Yield Analysis', 
+    layout='wide',
+    initial_sidebar_state='expanded'
+)
 
 st.title('US Rice Production & Yield — Analysis Report')
 st.sidebar.title('Navigation')
