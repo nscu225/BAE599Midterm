@@ -178,10 +178,17 @@ if page == 'Overview':
         Statistics Service (NASS). It includes yearly information by state and rice class, showing how much rice was
         planted, harvested, and produced.
 
-        My research question is: “Is U.S. rice production becoming more efficient (yield per acre) over time?”
+        My research question is: "Is U.S. rice production becoming more efficient (yield per acre) over time?"
         """
     )
     st.markdown('- Use the sidebar to navigate each step. Plots and artifacts are loaded from the repository `Step 1` to `Step 6` folders.')
+    
+    # GitHub repository link
+    st.markdown('---')
+    st.subheader('📂 Project Repository')
+    st.markdown('**GitHub Repository:** [https://github.com/nscu225/BAE599Midterm](https://github.com/nscu225/BAE599Midterm)')
+    st.markdown('View the complete source code, data files, and analysis scripts.')
+    
     # Data Inspection Summary moved to the Dataset Inspection page per request
 
 if page == 'Dataset Inspection & Description':
