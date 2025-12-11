@@ -30,12 +30,19 @@ page = st.sidebar.selectbox('Select step', ['Overview', 'Dataset Inspection & De
 
 def get_original_df():
     """Return the original dataframe either from the repo file or uploaded file in session state."""
-    orig_csv = BASE / 'US-Rice-Acreage-Production-and-yield copy.csv'
-    if orig_csv.exists():
-        try:
-            return pd.read_csv(orig_csv)
-        except Exception:
-            return None
+    # Try multiple possible filenames
+    candidates = [
+        'US-Rice-Acreage-Production-and-yield.csv',
+        'US-Rice-Acreage-Production-and-yield copy.csv',
+        'US-Rice-Acreage-Production-and-yield_copy.csv'
+    ]
+    for name in candidates:
+        orig_csv = BASE / name
+        if orig_csv.exists():
+            try:
+                return pd.read_csv(orig_csv)
+            except Exception:
+                continue
     # fallback to uploaded
     return st.session_state.get('uploaded_orig_df')
 
@@ -49,8 +56,8 @@ def find_original_csv():
       - BASE / 'data' directory for any .csv
     """
     candidates = [
-        'US-Rice-Acreage-Production-and-yield copy.csv',
         'US-Rice-Acreage-Production-and-yield.csv',
+        'US-Rice-Acreage-Production-and-yield copy.csv',
         'US-Rice-Acreage-Production-and-yield_copy.csv'
     ]
     tried = []
@@ -229,7 +236,8 @@ if page == 'Dataset Inspection & Description':
 
     st.subheader('Diagnostic plots')
     st.markdown('Showing selected inspection plots: histogram of yield, boxplot of VALUE, and scatter/time trend of yield.')
-    orig_csv = BASE / 'US-Rice-Acreage-Production-and-yield copy.csv'
+    orig_csv_path, _ = find_original_csv()
+    orig_csv = orig_csv_path if orig_csv_path else BASE / 'US-Rice-Acreage-Production-and-yield.csv'
 
     cols = st.columns(3)
     # Histogram (in-memory if possible)
