@@ -571,17 +571,6 @@ if page == 'ML Model Selection':
           - predicted_vs_actual.png and residuals_vs_predicted.png (visual performance checks).
         """
     )
-    metrics = STEP3 / 'metrics.txt'
-    # If metrics file exists, show a short excerpt; otherwise do nothing (no warning displayed)
-    if metrics.exists():
-        try:
-            txt = metrics.read_text()
-            st.subheader('Model metrics (Step 3)')
-            # show the first 20 lines to keep the page compact
-            lines = txt.splitlines()
-            st.text('\n'.join(lines[:20]))
-        except Exception:
-            pass
 
     # Show compact model comparison table for requested models if available
     comp_csv = STEP3 / 'model_comparison.csv'
