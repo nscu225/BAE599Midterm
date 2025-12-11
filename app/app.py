@@ -1,6 +1,8 @@
 import streamlit as st
 import os
 import pandas as pd
+import matplotlib
+matplotlib.use('Agg')  # Use non-interactive backend for Streamlit Cloud
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
@@ -11,7 +13,12 @@ import pathlib
 import streamlit.components.v1 as components
 
 # Determine project root relative to this file so the app finds Step folders regardless of cwd
-BASE = Path(__file__).resolve().parent.parent
+try:
+    BASE = Path(__file__).resolve().parent.parent
+except NameError:
+    # Fallback if __file__ is not defined
+    BASE = Path.cwd()
+    
 STEP1 = BASE / 'Step 1'
 STEP2 = BASE / 'Step 2'
 STEP3 = BASE / 'Step 3'
