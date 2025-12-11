@@ -1,0 +1,9 @@
+Model selection run at 2025-10-20T19:27:30.722916
+Time-based train/test split; cross-validated on training set with TimeSeriesSplit (5 splits)
+Number of years total: 66; train: 52; test: 14
+GridSearch best params: {'clf__alpha': 1.0, 'poly__degree': 1}
+CV best MSE (neg->pos): 185014.1321
+Test set performance:
+R^2: -0.9540
+RMSE: 260.732
+MAE: 203.792

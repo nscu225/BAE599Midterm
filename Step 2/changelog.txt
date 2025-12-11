@@ -1,0 +1,17 @@
+Preprocessing log generated on 2025-10-20T19:21:14.168879
+Original data shape: (1869, 10)
+Stripped whitespace from column names.
+Filtered to STATISTIC_DESCRIPTION == 'YIELD' -> 615 rows
+Filtered to UNIT_DESCRIPTION containing 'POUND' -> 615 rows
+Missing values by column after filtering: {'TABLE_NAME': 0, 'TABLE_NUMBER': 0, 'COMMODITY_DESCRIPTION': 0, 'CLASS_DESCRIPTION': 0, 'YEAR': 0, 'REFERENCE_PERIOD_DESCRIPTION': 0, 'LOCATION_DESCRIPTION': 0, 'STATISTIC_DESCRIPTION': 0, 'VALUE': 0, 'UNIT_DESCRIPTION': 0}
+Dropped 0 rows missing YEAR or VALUE (kept 615)
+Missing after coercion (YEAR, VALUE): {'YEAR': 0, 'VALUE': 0}
+Dropped 0 rows still missing YEAR or VALUE after coercion
+Added boolean flags 'is_us_total' and 'is_all_classes'.
+One-hot encoded CLASS_DESCRIPTION into columns: ['CLASS_ALL CLASSES', 'CLASS_LONG GRAIN', 'CLASS_MEDIUM GRAIN', 'CLASS_SHORT GRAIN']
+Factorized LOCATION_DESCRIPTION into LOCATION_CODE (7 unique locations)
+Scaled numeric columns ['YEAR', 'VALUE'] with StandardScaler and saved scaler to /Users/nataliecupples/Documents/UK Fall 2025/BAE599/Midterm 5/Step 2/scaler_year_value.joblib
+Outlier detection using IQR: Q1=4600.0, Q3=7350.0, IQR=2750.0; flagged 0 outliers
+Z-score method: mean=5996.66, std=1500.18; 0 points with |z|>3
+Created 'VALUE_clipped' by winsorizing at 1st and 99th percentiles: (3214.0, 8834.400000000001)
+Saved cleaned data to /Users/nataliecupples/Documents/UK Fall 2025/BAE599/Midterm 5/Step 2/cleaned_yield_data.csv (rows: 615, cols: 22)

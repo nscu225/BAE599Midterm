@@ -1,0 +1,15 @@
+Processing comparison report
+
+orig_rows: 1869
+orig_cols: 10
+orig_missing_total: 0
+orig_missing_percol: {'TABLE_NAME': 0, 'TABLE_NUMBER': 0, 'COMMODITY_DESCRIPTION': 0, 'CLASS_DESCRIPTION': 0, 'YEAR': 0, 'REFERENCE_PERIOD_DESCRIPTION': 0, 'LOCATION_DESCRIPTION': 0, 'STATISTIC_DESCRIPTION': 0, 'VALUE': 0, 'UNIT_DESCRIPTION': 0}
+orig_duplicates: 0
+clean_rows: 615
+clean_cols: 22
+clean_missing_total: 0
+clean_missing_percol: {'TABLE_NAME': 0, 'TABLE_NUMBER': 0, 'COMMODITY_DESCRIPTION': 0, 'CLASS_DESCRIPTION': 0, 'YEAR': 0, 'REFERENCE_PERIOD_DESCRIPTION': 0, 'LOCATION_DESCRIPTION': 0, 'STATISTIC_DESCRIPTION': 0, 'VALUE': 0, 'UNIT_DESCRIPTION': 0, 'is_us_total': 0, 'is_all_classes': 0, 'CLASS_ALL CLASSES': 0, 'CLASS_LONG GRAIN': 0, 'CLASS_MEDIUM GRAIN': 0, 'CLASS_SHORT GRAIN': 0, 'LOCATION_CODE': 0, 'YEAR_scaled': 0, 'VALUE_scaled': 0, 'is_outlier_iqr': 0, 'value_zscore': 0, 'VALUE_clipped': 0}
+clean_duplicates: 0
+rows_removed: 1254
+dropped_rows_by_merge: 1254
+dropped_sample_saved: /Users/nataliecupples/Documents/UK Fall 2025/BAE599/Midterm 5/Step 2/dropped_rows_sample.csv

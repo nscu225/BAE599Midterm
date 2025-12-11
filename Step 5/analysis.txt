@@ -1,0 +1,80 @@
+Analysis generated on 2025-10-20T19:29:53.306704
+
+Data split:
+  Total years: 66, train: 52, test: 14
+
+Performance metrics:
+  Train R^2: 0.9344, RMSE: 265.397, MAE: 226.572
+  Test R^2: -0.9540, RMSE: 260.732, MAE: 203.792
+
+OLS (full series) results:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.960
+Model:                            OLS   Adj. R-squared:                  0.960
+Method:                 Least Squares   F-statistic:                     1554.
+Date:                Mon, 20 Oct 2025   Prob (F-statistic):           1.30e-46
+Time:                        19:29:53   Log-Likelihood:                -460.82
+No. Observations:                  66   AIC:                             925.6
+Df Residuals:                      64   BIC:                             930.0
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const      -1.286e+05   3406.094    -37.743      0.000   -1.35e+05   -1.22e+05
+x1            67.4283      1.710     39.426      0.000      64.012      70.845
+==============================================================================
+Omnibus:                        2.780   Durbin-Watson:                   0.822
+Prob(Omnibus):                  0.249   Jarque-Bera (JB):                1.699
+Skew:                          -0.122   Prob(JB):                        0.428
+Kurtosis:                       2.253   Cond. No.                     2.08e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.08e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+Newey-West (HAC) robust summary (maxlags=4):
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.960
+Model:                            OLS   Adj. R-squared:                  0.960
+Method:                 Least Squares   F-statistic:                     650.4
+Date:                Mon, 20 Oct 2025   Prob (F-statistic):           3.07e-35
+Time:                        19:29:52   Log-Likelihood:                -460.82
+No. Observations:                  66   AIC:                             925.6
+Df Residuals:                      64   BIC:                             930.0
+Df Model:                           1                                         
+Covariance Type:                  HAC                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const      -1.286e+05   5280.803    -24.344      0.000   -1.39e+05   -1.18e+05
+x1            67.4283      2.644     25.504      0.000      62.147      72.710
+==============================================================================
+Omnibus:                        2.780   Durbin-Watson:                   0.822
+Prob(Omnibus):                  0.249   Jarque-Bera (JB):                1.699
+Skew:                          -0.122   Prob(JB):                        0.428
+Kurtosis:                       2.253   Cond. No.                     2.08e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 4 lags and without small sample correction
+[2] The condition number is large, 2.08e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+Durbin-Watson statistic (OLS residuals): 0.8222
+
+Interpretation:
+  - Slope from OLS indicates average change in yield per year (pounds/acre per year).
+  - The model shows a positive long-term trend (slope ~), but test R^2 is negative in earlier evaluation,
+    indicating forecasting performance on the held-out recent years was poor relative to predicting the test mean.
+  - Durbin-Watson < 2 indicates positive autocorrelation in residuals; this violates OLS independence assumption and
+    can make standard errors optimistic. The Newey-West results provide HAC-robust standard errors to account for this.
+
+Recommendations:
+  - Use time-series models (ARIMA/SARIMAX or GLS with AR errors) to capture autocorrelation and potential nonstationarity.
+  - Use rolling-origin (expanding window) evaluation to better estimate forecasting performance.
+  - Investigate structural breaks (e.g., via Chow test) or include covariates (technology, inputs, weather) if available.

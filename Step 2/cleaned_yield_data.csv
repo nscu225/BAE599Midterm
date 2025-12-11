@@ -1,0 +1,616 @@
+TABLE_NAME,TABLE_NUMBER,COMMODITY_DESCRIPTION,CLASS_DESCRIPTION,YEAR,REFERENCE_PERIOD_DESCRIPTION,LOCATION_DESCRIPTION,STATISTIC_DESCRIPTION,VALUE,UNIT_DESCRIPTION,is_us_total,is_all_classes,VALUE_clipped
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1960,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,4775.0,POUNDS PER ACRE,False,True,4775.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1960,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,2850.0,POUNDS PER ACRE,True,True,3214.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1960,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,3400.0,POUNDS PER ACRE,False,True,3400.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1960,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,2950.0,POUNDS PER ACRE,False,True,3214.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1960,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,3525.0,POUNDS PER ACRE,False,True,3525.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1960,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,3075.0,POUNDS PER ACRE,False,True,3214.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1960,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,3423.0,POUNDS PER ACRE,True,True,3423.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1961,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,2900.0,POUNDS PER ACRE,False,True,3214.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1961,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,2925.0,POUNDS PER ACRE,True,True,3214.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1961,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,4800.0,POUNDS PER ACRE,False,True,4800.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1961,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,3411.0,POUNDS PER ACRE,True,True,3411.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1961,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,3500.0,POUNDS PER ACRE,False,True,3500.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1961,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,3300.0,POUNDS PER ACRE,False,True,3300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1961,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,3300.0,POUNDS PER ACRE,False,True,3300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1962,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,3550.0,POUNDS PER ACRE,False,True,3550.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1962,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,3726.0,POUNDS PER ACRE,True,True,3726.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1962,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,3850.0,POUNDS PER ACRE,False,True,3850.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1962,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,3200.0,POUNDS PER ACRE,False,True,3214.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1962,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,4950.0,POUNDS PER ACRE,False,True,4950.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1962,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3050.0,POUNDS PER ACRE,True,True,3214.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1962,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4200.0,POUNDS PER ACRE,False,True,4200.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1963,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3325.0,POUNDS PER ACRE,True,True,3325.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1963,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4300.0,POUNDS PER ACRE,False,True,4300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1963,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4125.0,POUNDS PER ACRE,False,True,4125.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1963,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4200.0,POUNDS PER ACRE,False,True,4200.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1963,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,4325.0,POUNDS PER ACRE,False,True,4325.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1963,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,3968.0,POUNDS PER ACRE,True,True,3968.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1963,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,3900.0,POUNDS PER ACRE,False,True,3900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1964,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4150.0,POUNDS PER ACRE,False,True,4150.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1964,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3300.0,POUNDS PER ACRE,True,True,3300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1964,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4300.0,POUNDS PER ACRE,False,True,4300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1964,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,3800.0,POUNDS PER ACRE,False,True,3800.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1964,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4098.0,POUNDS PER ACRE,True,True,4098.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1964,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4300.0,POUNDS PER ACRE,False,True,4300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1964,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,5050.0,POUNDS PER ACRE,False,True,5050.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1965,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,3700.0,POUNDS PER ACRE,False,True,3700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1965,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4300.0,POUNDS PER ACRE,False,True,4300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1965,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4255.0,POUNDS PER ACRE,True,True,4255.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1965,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4600.0,POUNDS PER ACRE,False,True,4600.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1965,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,4900.0,POUNDS PER ACRE,False,True,4900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1965,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4500.0,POUNDS PER ACRE,False,True,4500.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1965,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3550.0,POUNDS PER ACRE,True,True,3550.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1966,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4200.0,POUNDS PER ACRE,False,True,4200.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1966,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,4300.0,POUNDS PER ACRE,False,True,4300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1966,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4400.0,POUNDS PER ACRE,False,True,4400.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1966,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4300.0,POUNDS PER ACRE,False,True,4300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1966,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,5500.0,POUNDS PER ACRE,False,True,5500.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1966,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4322.0,POUNDS PER ACRE,True,True,4322.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1966,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3700.0,POUNDS PER ACRE,True,True,3700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1967,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4600.0,POUNDS PER ACRE,False,True,4600.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1967,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,5000.0,POUNDS PER ACRE,False,True,5000.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1967,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,4900.0,POUNDS PER ACRE,False,True,4900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1967,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,4300.0,POUNDS PER ACRE,False,True,4300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1967,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3900.0,POUNDS PER ACRE,True,True,3900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1967,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4537.0,POUNDS PER ACRE,True,True,4537.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1967,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4550.0,POUNDS PER ACRE,False,True,4550.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1968,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4425.0,POUNDS PER ACRE,True,True,4425.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1968,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4550.0,POUNDS PER ACRE,False,True,4550.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1968,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,5325.0,POUNDS PER ACRE,False,True,5325.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1968,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,4400.0,POUNDS PER ACRE,False,True,4400.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1968,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4300.0,POUNDS PER ACRE,False,True,4300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1968,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3850.0,POUNDS PER ACRE,True,True,3850.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1968,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4500.0,POUNDS PER ACRE,False,True,4500.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1969,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3500.0,POUNDS PER ACRE,True,True,3500.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1969,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,5525.0,POUNDS PER ACRE,False,True,5525.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1969,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4600.0,POUNDS PER ACRE,False,True,4600.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1969,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4750.0,POUNDS PER ACRE,False,True,4750.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1969,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4318.0,POUNDS PER ACRE,True,True,4318.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1969,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,3950.0,POUNDS PER ACRE,False,True,3950.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1969,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,4450.0,POUNDS PER ACRE,False,True,4450.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1970,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4618.0,POUNDS PER ACRE,True,True,4618.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1970,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,4500.0,POUNDS PER ACRE,False,True,4500.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1970,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4500.0,POUNDS PER ACRE,False,True,4500.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1970,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4800.0,POUNDS PER ACRE,False,True,4800.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1970,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4400.0,POUNDS PER ACRE,False,True,4400.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1970,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3900.0,POUNDS PER ACRE,True,True,3900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1970,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,5700.0,POUNDS PER ACRE,False,True,5700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1971,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3800.0,POUNDS PER ACRE,True,True,3800.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1971,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,4600.0,POUNDS PER ACRE,False,True,4600.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1971,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,5100.0,POUNDS PER ACRE,False,True,5100.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1971,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5050.0,POUNDS PER ACRE,False,True,5050.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1971,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4800.0,POUNDS PER ACRE,False,True,4800.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1971,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4718.0,POUNDS PER ACRE,True,True,4718.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1971,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,5200.0,POUNDS PER ACRE,False,True,5200.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1972,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4727.0,POUNDS PER ACRE,False,True,4727.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1972,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4700.0,POUNDS PER ACRE,True,True,4700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1972,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4975.0,POUNDS PER ACRE,False,True,4975.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1972,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,4559.0,POUNDS PER ACRE,False,True,4559.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1972,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4449.0,POUNDS PER ACRE,False,True,4449.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1972,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,5700.0,POUNDS PER ACRE,False,True,5700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1972,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3825.0,POUNDS PER ACRE,True,True,3825.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1973,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,3740.0,POUNDS PER ACRE,False,True,3740.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1973,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4274.0,POUNDS PER ACRE,True,True,4274.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1973,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3451.0,POUNDS PER ACRE,True,True,3451.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1973,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,4306.0,POUNDS PER ACRE,False,True,4306.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1973,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4770.0,POUNDS PER ACRE,False,True,4770.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1973,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,5616.0,POUNDS PER ACRE,False,True,5616.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1973,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4346.0,POUNDS PER ACRE,False,True,4346.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1974,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,5290.0,POUNDS PER ACRE,False,True,5290.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1974,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3650.0,POUNDS PER ACRE,True,True,3650.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1974,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4610.0,POUNDS PER ACRE,False,True,4610.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1974,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,4180.0,POUNDS PER ACRE,False,True,4180.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1974,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4494.0,POUNDS PER ACRE,False,True,4494.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1974,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4440.0,POUNDS PER ACRE,True,True,4440.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1974,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,3886.0,POUNDS PER ACRE,False,True,3886.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1975,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4560.0,POUNDS PER ACRE,False,True,4560.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1975,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3810.0,POUNDS PER ACRE,True,True,3810.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1975,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4210.0,POUNDS PER ACRE,False,True,4210.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1975,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4558.0,POUNDS PER ACRE,True,True,4558.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1975,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,5750.0,POUNDS PER ACRE,False,True,5750.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1975,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,3900.0,POUNDS PER ACRE,False,True,3900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1975,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4540.0,POUNDS PER ACRE,False,True,4540.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1976,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4810.0,POUNDS PER ACRE,False,True,4810.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1976,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4770.0,POUNDS PER ACRE,False,True,4770.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1976,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3910.0,POUNDS PER ACRE,True,True,3910.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1976,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,4200.0,POUNDS PER ACRE,False,True,4200.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1976,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,5520.0,POUNDS PER ACRE,False,True,5520.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1976,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4663.0,POUNDS PER ACRE,True,True,4663.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1976,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4200.0,POUNDS PER ACRE,False,True,4200.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1977,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,4000.0,POUNDS PER ACRE,False,True,4000.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1977,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4230.0,POUNDS PER ACRE,False,True,4230.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1977,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4670.0,POUNDS PER ACRE,False,True,4670.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1977,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3670.0,POUNDS PER ACRE,True,True,3670.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1977,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4412.0,POUNDS PER ACRE,True,True,4412.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1977,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,5810.0,POUNDS PER ACRE,False,True,5810.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1977,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,3700.0,POUNDS PER ACRE,False,True,3700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1978,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4484.0,POUNDS PER ACRE,True,True,4484.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1978,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4330.0,POUNDS PER ACRE,False,True,4330.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1978,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,5220.0,POUNDS PER ACRE,False,True,5220.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1978,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3820.0,POUNDS PER ACRE,True,True,3820.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1978,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4450.0,POUNDS PER ACRE,False,True,4450.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1978,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,4250.0,POUNDS PER ACRE,False,True,4250.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1978,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4700.0,POUNDS PER ACRE,False,True,4700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1979,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,3810.0,POUNDS PER ACRE,False,True,3810.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1979,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,4050.0,POUNDS PER ACRE,False,True,4050.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1979,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4320.0,POUNDS PER ACRE,False,True,4320.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1979,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,6520.0,POUNDS PER ACRE,False,True,6520.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1979,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4220.0,POUNDS PER ACRE,False,True,4220.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1979,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4599.0,POUNDS PER ACRE,True,True,4599.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1979,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3910.0,POUNDS PER ACRE,True,True,3910.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1980,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,3840.0,POUNDS PER ACRE,False,True,3840.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1980,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4180.0,POUNDS PER ACRE,False,True,4180.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1980,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4110.0,POUNDS PER ACRE,False,True,4110.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1980,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4413.0,POUNDS PER ACRE,True,True,4413.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1980,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4230.0,POUNDS PER ACRE,False,True,4230.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1980,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,6440.0,POUNDS PER ACRE,False,True,6440.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1980,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3550.0,POUNDS PER ACRE,True,True,3550.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1981,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4520.0,POUNDS PER ACRE,False,True,4520.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1981,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4700.0,POUNDS PER ACRE,False,True,4700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1981,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4080.0,POUNDS PER ACRE,False,True,4080.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1981,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,4390.0,POUNDS PER ACRE,False,True,4390.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1981,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,6900.0,POUNDS PER ACRE,False,True,6900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1981,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,4060.0,POUNDS PER ACRE,True,True,4060.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1981,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4819.0,POUNDS PER ACRE,True,True,4819.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1982,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,4160.0,POUNDS PER ACRE,True,True,4160.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1982,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4480.0,POUNDS PER ACRE,False,True,4480.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1982,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,4120.0,POUNDS PER ACRE,False,True,4120.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1982,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4290.0,POUNDS PER ACRE,False,True,4290.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1982,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4710.0,POUNDS PER ACRE,True,True,4710.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1982,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,6700.0,POUNDS PER ACRE,False,True,6700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1982,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4690.0,POUNDS PER ACRE,False,True,4690.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1983,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7040.0,POUNDS PER ACRE,False,True,7040.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1983,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4090.0,POUNDS PER ACRE,False,True,4090.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1983,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4340.0,POUNDS PER ACRE,False,True,4340.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1983,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,4000.0,POUNDS PER ACRE,False,True,4000.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1983,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4280.0,POUNDS PER ACRE,False,True,4280.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1983,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4598.0,POUNDS PER ACRE,True,True,4598.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1983,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,3820.0,POUNDS PER ACRE,True,True,3820.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1984,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,4350.0,POUNDS PER ACRE,False,True,4350.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1984,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,4150.0,POUNDS PER ACRE,True,True,4150.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1984,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,4600.0,POUNDS PER ACRE,False,True,4600.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1984,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4940.0,POUNDS PER ACRE,False,True,4940.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1984,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7120.0,POUNDS PER ACRE,False,True,7120.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1984,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4954.0,POUNDS PER ACRE,True,True,4954.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1984,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4600.0,POUNDS PER ACRE,False,True,4600.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1985,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4810.0,POUNDS PER ACRE,False,True,4810.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1985,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,4370.0,POUNDS PER ACRE,True,True,4370.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1985,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7300.0,POUNDS PER ACRE,False,True,7300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1985,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5414.0,POUNDS PER ACRE,True,True,5414.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1985,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,5490.0,POUNDS PER ACRE,False,True,5490.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1985,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5200.0,POUNDS PER ACRE,False,True,5200.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1985,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,5350.0,POUNDS PER ACRE,False,True,5350.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1986,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6250.0,POUNDS PER ACRE,False,True,6250.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1986,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,4550.0,POUNDS PER ACRE,True,True,4550.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1986,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5651.0,POUNDS PER ACRE,True,True,5651.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1986,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5300.0,POUNDS PER ACRE,False,True,5300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1986,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,5400.0,POUNDS PER ACRE,False,True,5400.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1986,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,5120.0,POUNDS PER ACRE,False,True,5120.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1986,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7700.0,POUNDS PER ACRE,False,True,7700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1987,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,4550.0,POUNDS PER ACRE,True,True,4550.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1987,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,5100.0,POUNDS PER ACRE,False,True,5100.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1987,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,5400.0,POUNDS PER ACRE,False,True,5400.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1987,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,5900.0,POUNDS PER ACRE,False,True,5900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1987,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7550.0,POUNDS PER ACRE,False,True,7550.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1987,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5555.0,POUNDS PER ACRE,True,True,5555.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1987,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5250.0,POUNDS PER ACRE,False,True,5250.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1988,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,5100.0,POUNDS PER ACRE,False,True,5100.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1988,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5514.0,POUNDS PER ACRE,True,True,5514.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1988,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,4500.0,POUNDS PER ACRE,True,True,4500.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1988,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6000.0,POUNDS PER ACRE,False,True,6000.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1988,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5350.0,POUNDS PER ACRE,False,True,5350.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1988,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,5300.0,POUNDS PER ACRE,False,True,5300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1988,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7020.0,POUNDS PER ACRE,False,True,7020.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1989,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,5700.0,POUNDS PER ACRE,False,True,5700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1989,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,5200.0,POUNDS PER ACRE,False,True,5200.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1989,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,4430.0,POUNDS PER ACRE,True,True,4430.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1989,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5749.0,POUNDS PER ACRE,True,True,5749.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1989,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5600.0,POUNDS PER ACRE,False,True,5600.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1989,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,5700.0,POUNDS PER ACRE,False,True,5700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1989,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7900.0,POUNDS PER ACRE,False,True,7900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1990,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5529.0,POUNDS PER ACRE,True,True,5529.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1990,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6000.0,POUNDS PER ACRE,False,True,6000.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1990,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,4860.0,POUNDS PER ACRE,True,True,4860.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1990,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5000.0,POUNDS PER ACRE,False,True,5000.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1990,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,5700.0,POUNDS PER ACRE,False,True,5700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1990,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7700.0,POUNDS PER ACRE,False,True,7700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1990,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4700.0,POUNDS PER ACRE,False,True,4700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1991,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,4850.0,POUNDS PER ACRE,True,True,4850.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1991,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8500.0,POUNDS PER ACRE,False,True,8500.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1991,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5731.0,POUNDS PER ACRE,True,True,5731.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1991,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,5600.0,POUNDS PER ACRE,False,True,5600.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1991,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6000.0,POUNDS PER ACRE,False,True,6000.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1991,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5300.0,POUNDS PER ACRE,False,True,5300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1991,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,5100.0,POUNDS PER ACRE,False,True,5100.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1992,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5500.0,POUNDS PER ACRE,False,True,5500.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1992,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,5800.0,POUNDS PER ACRE,False,True,5800.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1992,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,4650.0,POUNDS PER ACRE,True,True,4650.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1992,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4800.0,POUNDS PER ACRE,False,True,4800.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1992,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,5700.0,POUNDS PER ACRE,False,True,5700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1992,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5736.0,POUNDS PER ACRE,True,True,5736.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1992,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8500.0,POUNDS PER ACRE,False,True,8500.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1993,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,5400.0,POUNDS PER ACRE,False,True,5400.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1993,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5510.0,POUNDS PER ACRE,True,True,5510.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1993,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5050.0,POUNDS PER ACRE,False,True,5050.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1993,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,4550.0,POUNDS PER ACRE,True,True,4550.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1993,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,4900.0,POUNDS PER ACRE,False,True,4900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1993,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8300.0,POUNDS PER ACRE,False,True,8300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1993,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,5300.0,POUNDS PER ACRE,False,True,5300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1994,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,5200.0,POUNDS PER ACRE,False,True,5200.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1994,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8500.0,POUNDS PER ACRE,False,True,8500.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1994,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,4750.0,POUNDS PER ACRE,True,True,4750.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1994,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,5900.0,POUNDS PER ACRE,False,True,5900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1994,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5964.0,POUNDS PER ACRE,True,True,5964.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1994,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6000.0,POUNDS PER ACRE,False,True,6000.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1994,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5700.0,POUNDS PER ACRE,False,True,5700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1995,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5621.0,POUNDS PER ACRE,True,True,5621.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1995,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,5400.0,POUNDS PER ACRE,False,True,5400.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1995,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7600.0,POUNDS PER ACRE,False,True,7600.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1995,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,5600.0,POUNDS PER ACRE,False,True,5600.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1995,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,4600.0,POUNDS PER ACRE,True,True,4600.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1995,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5450.0,POUNDS PER ACRE,False,True,5450.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1995,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,5300.0,POUNDS PER ACRE,False,True,5300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1996,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,5550.0,POUNDS PER ACRE,False,True,5550.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1996,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,4870.0,POUNDS PER ACRE,True,True,4870.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1996,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,6000.0,POUNDS PER ACRE,False,True,6000.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1996,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7490.0,POUNDS PER ACRE,False,True,7490.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1996,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6120.0,POUNDS PER ACRE,True,True,6120.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1996,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6200.0,POUNDS PER ACRE,False,True,6200.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1996,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,6150.0,POUNDS PER ACRE,False,True,6150.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1997,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8250.0,POUNDS PER ACRE,False,True,8250.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1997,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,5300.0,POUNDS PER ACRE,False,True,5300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1997,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5700.0,POUNDS PER ACRE,False,True,5700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1997,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,5800.0,POUNDS PER ACRE,False,True,5800.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1997,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,4630.0,POUNDS PER ACRE,True,True,4630.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1997,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,5500.0,POUNDS PER ACRE,False,True,5500.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1997,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5897.0,POUNDS PER ACRE,True,True,5897.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1998,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,5200.0,POUNDS PER ACRE,False,True,5200.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1998,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,6850.0,POUNDS PER ACRE,False,True,6850.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1998,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5663.0,POUNDS PER ACRE,True,True,5663.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1998,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5800.0,POUNDS PER ACRE,False,True,5800.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1998,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,5800.0,POUNDS PER ACRE,False,True,5800.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1998,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,4530.0,POUNDS PER ACRE,True,True,4530.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1998,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,5600.0,POUNDS PER ACRE,False,True,5600.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1999,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7270.0,POUNDS PER ACRE,False,True,7270.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1999,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5850.0,POUNDS PER ACRE,False,True,5850.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1999,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,5000.0,POUNDS PER ACRE,True,True,5000.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1999,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,5900.0,POUNDS PER ACRE,False,True,5900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1999,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,5650.0,POUNDS PER ACRE,False,True,5650.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1999,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,5400.0,POUNDS PER ACRE,False,True,5400.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,1999,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5866.0,POUNDS PER ACRE,True,True,5866.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2000,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,6110.0,POUNDS PER ACRE,False,True,6110.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2000,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6700.0,POUNDS PER ACRE,False,True,6700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2000,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,5080.0,POUNDS PER ACRE,True,True,5080.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2000,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7940.0,POUNDS PER ACRE,False,True,7940.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2000,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6281.0,POUNDS PER ACRE,True,True,6281.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2000,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,5700.0,POUNDS PER ACRE,False,True,5700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2000,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,5900.0,POUNDS PER ACRE,False,True,5900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2001,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,6600.0,POUNDS PER ACRE,False,True,6600.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2001,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8170.0,POUNDS PER ACRE,False,True,8170.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2001,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6496.0,POUNDS PER ACRE,True,True,6496.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2001,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,5500.0,POUNDS PER ACRE,True,True,5500.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2001,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,6000.0,POUNDS PER ACRE,False,True,6000.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2001,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,6350.0,POUNDS PER ACRE,False,True,6350.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2001,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6850.0,POUNDS PER ACRE,False,True,6850.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2002,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,6050.0,POUNDS PER ACRE,False,True,6050.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2002,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8140.0,POUNDS PER ACRE,False,True,8140.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2002,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,6440.0,POUNDS PER ACRE,False,True,6440.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2002,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,6400.0,POUNDS PER ACRE,False,True,6400.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2002,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,7100.0,POUNDS PER ACRE,False,True,7100.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2002,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6578.0,POUNDS PER ACRE,True,True,6578.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2002,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,5500.0,POUNDS PER ACRE,True,True,5500.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2003,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,6800.0,POUNDS PER ACRE,False,True,6800.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2003,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7700.0,POUNDS PER ACRE,False,True,7700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2003,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,5870.0,POUNDS PER ACRE,True,True,5870.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2003,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6670.0,POUNDS PER ACRE,True,True,6670.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2003,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,6130.0,POUNDS PER ACRE,False,True,6130.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2003,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6600.0,POUNDS PER ACRE,False,True,6600.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2003,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,6610.0,POUNDS PER ACRE,False,True,6610.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2004,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,6980.0,POUNDS PER ACRE,False,True,6980.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2004,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6988.0,POUNDS PER ACRE,True,True,6988.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2004,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6840.0,POUNDS PER ACRE,False,True,6840.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2004,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,5390.0,POUNDS PER ACRE,True,True,5390.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2004,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8600.0,POUNDS PER ACRE,False,True,8600.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2004,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,6800.0,POUNDS PER ACRE,False,True,6800.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2004,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,6900.0,POUNDS PER ACRE,False,True,6900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2005,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6600.0,POUNDS PER ACRE,False,True,6600.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2005,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6624.0,POUNDS PER ACRE,True,True,6624.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2005,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,6600.0,POUNDS PER ACRE,False,True,6600.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2005,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,5900.0,POUNDS PER ACRE,True,True,5900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2005,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,6650.0,POUNDS PER ACRE,False,True,6650.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2005,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,6400.0,POUNDS PER ACRE,False,True,6400.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2005,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7380.0,POUNDS PER ACRE,False,True,7380.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2006,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,7170.0,POUNDS PER ACRE,False,True,7170.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2006,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,5880.0,POUNDS PER ACRE,True,True,5880.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2006,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7000.0,POUNDS PER ACRE,False,True,7000.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2006,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,6900.0,POUNDS PER ACRE,False,True,6900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2006,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,6400.0,POUNDS PER ACRE,False,True,6400.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2006,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7660.0,POUNDS PER ACRE,False,True,7660.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2006,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6898.0,POUNDS PER ACRE,True,True,6898.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2007,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6550.0,POUNDS PER ACRE,False,True,6550.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2007,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8200.0,POUNDS PER ACRE,False,True,8200.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2007,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7230.0,POUNDS PER ACRE,False,True,7230.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2007,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,6900.0,POUNDS PER ACRE,False,True,6900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2007,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7219.0,POUNDS PER ACRE,True,True,7219.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2007,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7350.0,POUNDS PER ACRE,False,True,7350.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2007,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6140.0,POUNDS PER ACRE,True,True,6140.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2008,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,6620.0,POUNDS PER ACRE,False,True,6620.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2008,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6900.0,POUNDS PER ACRE,False,True,6900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2008,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,6850.0,POUNDS PER ACRE,False,True,6850.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2008,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,5830.0,POUNDS PER ACRE,True,True,5830.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2008,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8320.0,POUNDS PER ACRE,False,True,8320.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2008,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,6660.0,POUNDS PER ACRE,False,True,6660.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2008,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6846.0,POUNDS PER ACRE,True,True,6846.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2009,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,6800.0,POUNDS PER ACRE,False,True,6800.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2009,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,6710.0,POUNDS PER ACRE,False,True,6710.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2009,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,7770.0,POUNDS PER ACRE,False,True,7770.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2009,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,6700.0,POUNDS PER ACRE,False,True,6700.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2009,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7085.0,POUNDS PER ACRE,True,True,7085.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2009,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6300.0,POUNDS PER ACRE,True,True,6300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2009,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8600.0,POUNDS PER ACRE,False,True,8600.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2010,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6725.0,POUNDS PER ACRE,True,True,6725.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2010,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,6850.0,POUNDS PER ACRE,False,True,6850.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2010,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,6480.0,POUNDS PER ACRE,False,True,6480.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2010,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,6480.0,POUNDS PER ACRE,False,True,6480.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2010,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6100.0,POUNDS PER ACRE,True,True,6100.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2010,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,7160.0,POUNDS PER ACRE,False,True,7160.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2010,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8020.0,POUNDS PER ACRE,False,True,8020.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2011,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,6850.0,POUNDS PER ACRE,False,True,6850.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2011,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,6490.0,POUNDS PER ACRE,False,True,6490.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2011,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7067.0,POUNDS PER ACRE,True,True,7067.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2011,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,7190.0,POUNDS PER ACRE,False,True,7190.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2011,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8350.0,POUNDS PER ACRE,False,True,8350.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2011,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6320.0,POUNDS PER ACRE,True,True,6320.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2011,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,6770.0,POUNDS PER ACRE,False,True,6770.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2012,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7200.0,POUNDS PER ACRE,False,True,7200.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2012,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,8370.0,POUNDS PER ACRE,False,True,8370.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2012,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,6990.0,POUNDS PER ACRE,False,True,6990.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2012,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7463.0,POUNDS PER ACRE,True,True,7463.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2012,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6430.0,POUNDS PER ACRE,True,True,6430.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2012,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7480.0,POUNDS PER ACRE,False,True,7480.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2012,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8150.0,POUNDS PER ACRE,False,True,8150.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2013,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7694.0,POUNDS PER ACRE,True,True,7694.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2013,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,7740.0,POUNDS PER ACRE,False,True,7740.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2013,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,7300.0,POUNDS PER ACRE,True,True,7300.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2013,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7560.0,POUNDS PER ACRE,False,True,7560.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2013,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8480.0,POUNDS PER ACRE,False,True,8480.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2013,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,7030.0,POUNDS PER ACRE,False,True,7030.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2013,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7400.0,POUNDS PER ACRE,False,True,7400.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2014,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8580.0,POUNDS PER ACRE,False,True,8580.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2014,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7576.0,POUNDS PER ACRE,True,True,7576.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2014,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,6830.0,POUNDS PER ACRE,False,True,6830.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2014,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7420.0,POUNDS PER ACRE,False,True,7420.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2014,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,7130.0,POUNDS PER ACRE,True,True,7130.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2014,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7560.0,POUNDS PER ACRE,False,True,7560.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2014,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,7360.0,POUNDS PER ACRE,False,True,7360.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2015,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6940.0,POUNDS PER ACRE,True,True,6940.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2015,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6900.0,POUNDS PER ACRE,False,True,6900.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2015,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,7020.0,POUNDS PER ACRE,False,True,7020.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2015,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7340.0,POUNDS PER ACRE,False,True,7340.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2015,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7472.0,POUNDS PER ACRE,True,True,7472.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2015,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7110.0,POUNDS PER ACRE,False,True,7110.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2015,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8890.0,POUNDS PER ACRE,False,True,8834.400000000001
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2016,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6630.0,POUNDS PER ACRE,True,True,6630.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2016,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,6650.0,POUNDS PER ACRE,False,True,6650.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2016,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,6920.0,POUNDS PER ACRE,False,True,6920.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2016,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7237.0,POUNDS PER ACRE,True,True,7237.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2016,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7180.0,POUNDS PER ACRE,False,True,7180.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2016,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,7360.0,POUNDS PER ACRE,False,True,7360.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2016,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8840.0,POUNDS PER ACRE,False,True,8834.400000000001
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2017,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,7440.0,POUNDS PER ACRE,False,True,7440.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2017,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7490.0,POUNDS PER ACRE,False,True,7490.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2017,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6710.0,POUNDS PER ACRE,True,True,6710.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2017,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8410.0,POUNDS PER ACRE,False,True,8410.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2017,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,7260.0,POUNDS PER ACRE,False,True,7260.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2017,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7400.0,POUNDS PER ACRE,False,True,7400.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2017,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7507.0,POUNDS PER ACRE,True,True,7507.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2018,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7520.0,POUNDS PER ACRE,False,True,7520.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2018,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7350.0,POUNDS PER ACRE,False,True,7350.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2018,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7692.0,POUNDS PER ACRE,True,True,7692.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2018,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8620.0,POUNDS PER ACRE,False,True,8620.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2018,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,7130.0,POUNDS PER ACRE,True,True,7130.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2018,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,7970.0,POUNDS PER ACRE,False,True,7970.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2018,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,7770.0,POUNDS PER ACRE,False,True,7770.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2019,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7474.0,POUNDS PER ACRE,True,True,7474.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2019,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7350.0,POUNDS PER ACRE,False,True,7350.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2019,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8460.0,POUNDS PER ACRE,False,True,8460.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2019,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6380.0,POUNDS PER ACRE,True,True,6380.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2019,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7480.0,POUNDS PER ACRE,False,True,7480.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2019,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,7350.0,POUNDS PER ACRE,False,True,7350.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2019,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,7370.0,POUNDS PER ACRE,False,True,7370.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2020,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7500.0,POUNDS PER ACRE,False,True,7500.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2020,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8720.0,POUNDS PER ACRE,False,True,8720.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2020,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,7250.0,POUNDS PER ACRE,False,True,7250.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2020,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6820.0,POUNDS PER ACRE,True,True,6820.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2020,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7620.0,POUNDS PER ACRE,True,True,7620.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2020,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7420.0,POUNDS PER ACRE,False,True,7420.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2020,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,8150.0,POUNDS PER ACRE,False,True,8150.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2021,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7710.0,POUNDS PER ACRE,True,True,7710.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2021,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7540.0,POUNDS PER ACRE,False,True,7540.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2021,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,9050.0,POUNDS PER ACRE,False,True,8834.400000000001
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2021,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7630.0,POUNDS PER ACRE,False,True,7630.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2021,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6870.0,POUNDS PER ACRE,True,True,6870.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2021,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,8040.0,POUNDS PER ACRE,False,True,8040.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2021,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6860.0,POUNDS PER ACRE,False,True,6860.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2022,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6660.0,POUNDS PER ACRE,True,True,6660.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2022,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,7940.0,POUNDS PER ACRE,False,True,7940.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2022,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7370.0,POUNDS PER ACRE,False,True,7370.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2022,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7410.0,POUNDS PER ACRE,False,True,7410.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2022,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8770.0,POUNDS PER ACRE,False,True,8770.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2022,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7385.0,POUNDS PER ACRE,True,True,7385.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2022,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6510.0,POUNDS PER ACRE,False,True,6510.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2023,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7470.0,POUNDS PER ACRE,False,True,7470.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2023,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7550.0,POUNDS PER ACRE,False,True,7550.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2023,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6800.0,POUNDS PER ACRE,True,True,6800.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2023,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,7670.0,POUNDS PER ACRE,False,True,7670.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2023,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,7990.0,POUNDS PER ACRE,False,True,7990.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2023,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7641.0,POUNDS PER ACRE,True,True,7641.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2023,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8540.0,POUNDS PER ACRE,False,True,8540.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2024,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,8800.0,POUNDS PER ACRE,False,True,8800.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2024,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7748.0,POUNDS PER ACRE,True,True,7748.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2024,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8530.0,POUNDS PER ACRE,False,True,8530.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2024,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6710.0,POUNDS PER ACRE,True,True,6710.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2024,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,8430.0,POUNDS PER ACRE,False,True,8430.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2024,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7640.0,POUNDS PER ACRE,False,True,7640.0
+"U.S. and State average rice yields per harvested acre, 1960 to present",2,RICE,ALL CLASSES,2024,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7540.0,POUNDS PER ACRE,False,True,7540.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1959,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,3382.0,POUNDS PER ACRE,True,True,3382.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1960,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,3423.0,POUNDS PER ACRE,True,True,3423.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1961,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,3411.0,POUNDS PER ACRE,True,True,3411.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1962,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,3726.0,POUNDS PER ACRE,True,True,3726.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1963,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,3968.0,POUNDS PER ACRE,True,True,3968.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1964,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4098.0,POUNDS PER ACRE,True,True,4098.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1965,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4255.0,POUNDS PER ACRE,True,True,4255.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1966,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4322.0,POUNDS PER ACRE,True,True,4322.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1967,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4537.0,POUNDS PER ACRE,True,True,4537.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1968,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4425.0,POUNDS PER ACRE,True,True,4425.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1969,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4318.0,POUNDS PER ACRE,True,True,4318.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1970,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4618.0,POUNDS PER ACRE,True,True,4618.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1971,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4718.0,POUNDS PER ACRE,True,True,4718.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1972,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4700.0,POUNDS PER ACRE,True,True,4700.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1973,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4274.0,POUNDS PER ACRE,True,True,4274.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1974,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4440.0,POUNDS PER ACRE,True,True,4440.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1975,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4558.0,POUNDS PER ACRE,True,True,4558.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1976,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4663.0,POUNDS PER ACRE,True,True,4663.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1977,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4412.0,POUNDS PER ACRE,True,True,4412.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1978,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4484.0,POUNDS PER ACRE,True,True,4484.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1979,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4599.0,POUNDS PER ACRE,True,True,4599.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1980,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4413.0,POUNDS PER ACRE,True,True,4413.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1981,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4819.0,POUNDS PER ACRE,True,True,4819.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1982,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4710.0,POUNDS PER ACRE,True,True,4710.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1983,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4598.0,POUNDS PER ACRE,True,True,4598.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1984,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,4954.0,POUNDS PER ACRE,True,True,4954.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1985,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5414.0,POUNDS PER ACRE,True,True,5414.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1986,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5651.0,POUNDS PER ACRE,True,True,5651.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1987,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5555.0,POUNDS PER ACRE,True,True,5555.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1988,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5514.0,POUNDS PER ACRE,True,True,5514.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1989,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5749.0,POUNDS PER ACRE,True,True,5749.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1990,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5529.0,POUNDS PER ACRE,True,True,5529.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1991,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5731.0,POUNDS PER ACRE,True,True,5731.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1992,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5736.0,POUNDS PER ACRE,True,True,5736.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1993,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5510.0,POUNDS PER ACRE,True,True,5510.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1994,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5964.0,POUNDS PER ACRE,True,True,5964.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1995,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5621.0,POUNDS PER ACRE,True,True,5621.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1996,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6120.0,POUNDS PER ACRE,True,True,6120.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1997,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5897.0,POUNDS PER ACRE,True,True,5897.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1998,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5663.0,POUNDS PER ACRE,True,True,5663.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,1999,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,5866.0,POUNDS PER ACRE,True,True,5866.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2000,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6281.0,POUNDS PER ACRE,True,True,6281.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2001,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6496.0,POUNDS PER ACRE,True,True,6496.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2002,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6578.0,POUNDS PER ACRE,True,True,6578.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2003,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6670.0,POUNDS PER ACRE,True,True,6670.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2004,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6988.0,POUNDS PER ACRE,True,True,6988.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2005,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6624.0,POUNDS PER ACRE,True,True,6624.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2006,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6898.0,POUNDS PER ACRE,True,True,6898.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2007,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7219.0,POUNDS PER ACRE,True,True,7219.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2008,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6846.0,POUNDS PER ACRE,True,True,6846.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2009,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7085.0,POUNDS PER ACRE,True,True,7085.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2010,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6725.0,POUNDS PER ACRE,True,True,6725.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2011,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7067.0,POUNDS PER ACRE,True,True,7067.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2012,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7463.0,POUNDS PER ACRE,True,True,7463.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2013,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7694.0,POUNDS PER ACRE,True,True,7694.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2014,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7576.0,POUNDS PER ACRE,True,True,7576.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2015,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7472.0,POUNDS PER ACRE,True,True,7472.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2016,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7237.0,POUNDS PER ACRE,True,True,7237.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2017,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7507.0,POUNDS PER ACRE,True,True,7507.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2018,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7692.0,POUNDS PER ACRE,True,True,7692.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2019,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7474.0,POUNDS PER ACRE,True,True,7474.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2020,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7620.0,POUNDS PER ACRE,True,True,7620.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2021,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7710.0,POUNDS PER ACRE,True,True,7710.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2022,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7385.0,POUNDS PER ACRE,True,True,7385.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2023,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7641.0,POUNDS PER ACRE,True,True,7641.0
+"U.S. rice acreage, yield, and production, 1959 to present",3,RICE,ALL CLASSES,2024,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7748.0,POUNDS PER ACRE,True,True,7748.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2023,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7470.0,POUNDS PER ACRE,False,False,7470.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2024,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7625.0,POUNDS PER ACRE,True,False,7625.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2024,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6520.0,POUNDS PER ACRE,True,False,6520.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2024,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4710.0,POUNDS PER ACRE,False,False,4710.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2024,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,8800.0,POUNDS PER ACRE,False,True,8800.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2021,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,8050.0,POUNDS PER ACRE,False,False,8050.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2022,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,3900.0,POUNDS PER ACRE,False,False,3900.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2021,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6890.0,POUNDS PER ACRE,True,False,6890.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2022,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,7500.0,POUNDS PER ACRE,False,False,7500.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2021,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7350.0,POUNDS PER ACRE,False,False,7350.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,SHORT GRAIN,2022,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7400.0,POUNDS PER ACRE,False,False,7400.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2022,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,9020.0,POUNDS PER ACRE,False,False,8834.400000000001
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2021,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,9240.0,POUNDS PER ACRE,False,False,8834.400000000001
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2021,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6690.0,POUNDS PER ACRE,True,False,6690.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2022,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7225.0,POUNDS PER ACRE,True,False,7225.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,SHORT GRAIN,2021,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5500.0,POUNDS PER ACRE,False,False,5500.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2023,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7250.0,POUNDS PER ACRE,False,False,7250.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2023,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6510.0,POUNDS PER ACRE,True,False,6510.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,SHORT GRAIN,2023,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7592.0,POUNDS PER ACRE,True,False,7592.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2022,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7240.0,POUNDS PER ACRE,False,False,7240.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,SHORT GRAIN,2023,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5500.0,POUNDS PER ACRE,False,False,5500.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2022,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6660.0,POUNDS PER ACRE,True,True,6660.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2021,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7200.0,POUNDS PER ACRE,False,False,7200.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2021,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7380.0,POUNDS PER ACRE,False,False,7380.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2022,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,7940.0,POUNDS PER ACRE,False,True,7940.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2022,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7370.0,POUNDS PER ACRE,False,True,7370.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2022,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6580.0,POUNDS PER ACRE,False,False,6580.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,SHORT GRAIN,2022,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7314.0,POUNDS PER ACRE,True,False,7314.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2021,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7710.0,POUNDS PER ACRE,True,True,7710.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2021,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,8627.0,POUNDS PER ACRE,True,False,8627.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2021,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6900.0,POUNDS PER ACRE,False,False,6900.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2021,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7540.0,POUNDS PER ACRE,False,False,7540.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2023,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7600.0,POUNDS PER ACRE,False,False,7600.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2023,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,6000.0,POUNDS PER ACRE,False,False,6000.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2023,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7470.0,POUNDS PER ACRE,False,True,7470.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2023,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7523.0,POUNDS PER ACRE,True,False,7523.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2021,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,3500.0,POUNDS PER ACRE,False,False,3500.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2023,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,4400.0,POUNDS PER ACRE,False,False,4400.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2022,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7410.0,POUNDS PER ACRE,False,True,7410.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2023,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,8300.0,POUNDS PER ACRE,False,False,8300.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2021,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7540.0,POUNDS PER ACRE,False,True,7540.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2021,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,9050.0,POUNDS PER ACRE,False,True,8834.400000000001
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2022,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6680.0,POUNDS PER ACRE,True,False,6680.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2023,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,8010.0,POUNDS PER ACRE,False,False,8010.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2022,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7430.0,POUNDS PER ACRE,False,False,7430.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,SHORT GRAIN,2023,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7650.0,POUNDS PER ACRE,False,False,7650.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2021,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7630.0,POUNDS PER ACRE,False,True,7630.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2022,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7370.0,POUNDS PER ACRE,False,False,7370.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2023,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7550.0,POUNDS PER ACRE,False,True,7550.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,SHORT GRAIN,2021,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7397.0,POUNDS PER ACRE,True,False,7397.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2021,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7471.0,POUNDS PER ACRE,True,False,7471.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2024,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,7910.0,POUNDS PER ACRE,False,False,7910.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,SHORT GRAIN,2024,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5150.0,POUNDS PER ACRE,False,False,5150.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,SHORT GRAIN,2024,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,6970.0,POUNDS PER ACRE,True,False,6970.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2021,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6870.0,POUNDS PER ACRE,True,True,6870.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2023,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6800.0,POUNDS PER ACRE,True,True,6800.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2023,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8670.0,POUNDS PER ACRE,False,False,8670.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2024,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,8890.0,POUNDS PER ACRE,False,False,8834.400000000001
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2024,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7748.0,POUNDS PER ACRE,True,True,7748.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2024,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8530.0,POUNDS PER ACRE,False,True,8530.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2024,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6710.0,POUNDS PER ACRE,True,True,6710.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2024,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8700.0,POUNDS PER ACRE,False,False,8700.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2024,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,8264.0,POUNDS PER ACRE,True,False,8264.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2024,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7670.0,POUNDS PER ACRE,False,False,7670.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2024,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,8430.0,POUNDS PER ACRE,False,True,8430.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2022,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,8181.0,POUNDS PER ACRE,True,False,8181.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,SHORT GRAIN,2024,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7030.0,POUNDS PER ACRE,False,False,7030.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2024,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7640.0,POUNDS PER ACRE,False,True,7640.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2024,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,6850.0,POUNDS PER ACRE,False,False,6850.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2024,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6730.0,POUNDS PER ACRE,True,False,6730.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2024,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7540.0,POUNDS PER ACRE,False,True,7540.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2024,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,8440.0,POUNDS PER ACRE,False,False,8440.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2024,CROP YEAR (AUGUST-JULY),MISSISSIPPI,YIELD,7550.0,POUNDS PER ACRE,False,False,7550.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2024,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7290.0,POUNDS PER ACRE,False,False,7290.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2024,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,5000.0,POUNDS PER ACRE,False,False,5000.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2023,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,7670.0,POUNDS PER ACRE,False,True,7670.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2022,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8770.0,POUNDS PER ACRE,False,True,8770.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,SHORT GRAIN,2021,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,7450.0,POUNDS PER ACRE,False,False,7450.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2022,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,7950.0,POUNDS PER ACRE,False,False,7950.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2022,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,6300.0,POUNDS PER ACRE,False,False,6300.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2023,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,7990.0,POUNDS PER ACRE,False,True,7990.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2022,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6530.0,POUNDS PER ACRE,True,False,6530.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2021,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,7660.0,POUNDS PER ACRE,False,False,7660.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2021,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,7600.0,POUNDS PER ACRE,False,False,7600.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2021,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,8040.0,POUNDS PER ACRE,False,True,8040.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2023,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7641.0,POUNDS PER ACRE,True,True,7641.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2022,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7385.0,POUNDS PER ACRE,True,True,7385.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2022,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6510.0,POUNDS PER ACRE,False,True,6510.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2023,CROP YEAR (AUGUST-JULY),CALIFORNIA,YIELD,8540.0,POUNDS PER ACRE,False,True,8540.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,ALL CLASSES,2021,CROP YEAR (AUGUST-JULY),TEXAS,YIELD,6860.0,POUNDS PER ACRE,False,True,6860.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,SHORT GRAIN,2022,CROP YEAR (AUGUST-JULY),ARKANSAS,YIELD,5000.0,POUNDS PER ACRE,False,False,5000.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2023,CROP YEAR (AUGUST-JULY),MISSOURI,YIELD,7510.0,POUNDS PER ACRE,False,False,7510.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,LONG GRAIN,2023,CROP YEAR (AUGUST-JULY),LOUISIANA,YIELD,6860.0,POUNDS PER ACRE,True,False,6860.0
+"State and U.S. rice acreage, yield, and production, all rice and by class, 2022 to present",5,RICE,MEDIUM GRAIN,2023,CROP YEAR (AUGUST-JULY),U.S. TOTAL,YIELD,7955.0,POUNDS PER ACRE,True,False,7955.0
